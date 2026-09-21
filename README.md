@@ -3,4 +3,4 @@ A full-stack URL Shortener and Analytics platform that converts long URLs into s
 
 # ARCHITECTURE DIAGRAM
 
-![System Architecture](composed architecture.png)
+![System Architecture](architecture.png)
